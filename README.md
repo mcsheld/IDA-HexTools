@@ -61,7 +61,7 @@ A1B2C3D4             plain hex string
 
 ## ⚙️ Configuration
 
-At the top of `HexTools.py` there are two options you can adjust:
+At the top of `HexTools.py` there are options you can adjust:
 
 ```python
 # Move cursor to the byte after the last patched byte
